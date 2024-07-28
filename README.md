@@ -22,3 +22,6 @@ To run this project locally, follow these steps:
 
    ```sh
    git clone https://github.com/your-username/your-repository.git
+   cd <path-to-the-project>
+   npm install
+   ```
